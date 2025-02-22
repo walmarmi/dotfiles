@@ -8,4 +8,4 @@
 ![image description](jellybeans.png)
 
 **Final Remarks:**
-Originally ran into a lot of issues with my .sh install script since so I put in there to remove the existing Vundle and to re-install it. Also, I forgot to copy the .vimrc file so it also gave me a lot of errors like No Plugins Detected but I added the command and was able to fix it. I have screenshots of the Plugins and Colorscheme to test if it works.  
+- Originally ran into a lot of issues with my .sh install script since so I put in there to remove the existing Vundle and to re-install it. Also, I forgot to copy the .vimrc file so it also gave me a lot of errors like No Plugins Detected but I added the command and was able to fix it. I have screenshots of the Plugins and Colorscheme to test if it works.  

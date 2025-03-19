@@ -1,6 +1,6 @@
 ## Bash Aliases & Run Commands
 
-## Files
+## Commands for Git Files
 - `.bash_aliases`: Aliases for Git commands.
 - `copy_alias.sh`: Script that links the `.bash_aliases` to home directory
 

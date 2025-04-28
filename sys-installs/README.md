@@ -13,3 +13,4 @@
 - [Check Apt installed](https://stackoverflow.com/questions/1298066/how-can-i-check-if-a-package-is-installed-and-install-it-if-not)
 - [User Prompt Y/N](https://www.geeksforgeeks.org/how-to-prompt-for-yes-no-cancel-input-in-a-linux-shell-script/)
 - [/dev/null](https://www.geeksforgeeks.org/what-is-dev-null-in-linux/)
+- ChatGPT was used for error message command and to check code for any syntax errors
